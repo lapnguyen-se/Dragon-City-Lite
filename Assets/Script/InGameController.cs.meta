@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 851a06038dbdfa54cbc2a8ca548c18f5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - guiSetting: {instanceID: 0}
+  - guiSocial: {instanceID: 0}
+  - guiBuilding: {instanceID: 0}
+  - guiQuest: {instanceID: 0}
+  - guiMarket: {instanceID: 0}
+  - guiInven: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
